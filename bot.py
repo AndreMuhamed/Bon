@@ -29,4 +29,4 @@ async def on_message(message):
 async def future(interaction: disnake.ApplicationCommandInteraction):
     await interaction.response.send_message('У Зуфарчика большие планы на будущее')
 
-bot.run('MTA1MTE1MDMwMDUwMjgzMTI0NA.G0k5qT.owjCZ2Z2NLF3jqXi44mXSum9CqF_vKgY-V0uto')
+bot.run('токен')
