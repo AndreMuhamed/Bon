@@ -9,5 +9,3 @@ The "/future" command is also defined using the "@bot.slash_command()" decorator
 At the end of the code, the bot is launched using the authorization token that must be specified.
 
 # I am not responsible for the functionality of the bot
-
-оввбувлнубув
