@@ -10,5 +10,5 @@ At the end of the code, the bot is launched using the authorization token that m
 
 # I am not responsible for the functionality of the bot
 нинри
-н6иин6ин6имн5им
+н
 н
