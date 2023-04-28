@@ -12,4 +12,4 @@ At the end of the code, the bot is launched using the authorization token that m
 
 
 квраваорараврвар
-равравр
+равраврараврварв
