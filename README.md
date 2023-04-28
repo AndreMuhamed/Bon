@@ -10,6 +10,3 @@ At the end of the code, the bot is launched using the authorization token that m
 
 # I am not responsible for the functionality of the bot
 
-
-квраваорараврвар
-равраврараврварв
