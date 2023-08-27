@@ -1,4 +1,4 @@
-кпкупкапавмавмвThis code creates a Python Discord bot using the Disnake library.
+у кпку пу кпкупкапавмавмвThis code creates a Python Discord bot using the Disnake library.
 
 First, it imports the library and command module from disnake.ext. Then it defines the variables "intents", "bot", "message_threshold" and "message_counter".
 
