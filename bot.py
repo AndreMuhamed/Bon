@@ -1,4 +1,4 @@
-import disnake
+import disnake віівимівиіи
 from disnake.ext import commands
 
 intents = disnake.Intents.all()
